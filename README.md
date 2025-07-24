@@ -2,7 +2,8 @@
 
 A visually stunning and fully responsive **Food Delivery Landing Page UI** designed using HTML, CSS, and JavaScript. Built with smooth animations and clean layout for a seamless user experience.
 
-![Design Preview](https://piyush2707.github.io/piyush-food-delivery/) 
+🌐 Live Demo
+(https://piyush2707.github.io/piyush-food-delivery/) 
 
 ---
 
