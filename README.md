@@ -18,4 +18,3 @@ A visually stunning and fully responsive **Food Delivery Landing Page UI** desig
 
 ---
 
-## 📂 Project Structure
